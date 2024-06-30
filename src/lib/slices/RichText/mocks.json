@@ -1,0 +1,25 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"content": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Lorem quis tempor laborum. Fugiat adipisicing Lorem sunt voluptate sit eiusmod exercitation ex tempor qui eu do proident veniam nostrud. Excepteur eiusmod exercitation est minim quis sit nisi anim cupidatat laboris nostrud."
+						}
+					}
+				]
+			}
+		},
+		"items": [
+			{
+				"__TYPE__": "GroupItemContent",
+				"value": []
+			}
+		]
+	}
+]
